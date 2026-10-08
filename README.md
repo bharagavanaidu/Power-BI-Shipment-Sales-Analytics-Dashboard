@@ -201,14 +201,3 @@ This project demonstrates practical skills in:
 
 ---
 
-## 👨‍💻 Author
-
-**Bhargava Naidu**
-
-Data Analyst | Power BI | SQL | Python | Excel
-
-📍 Andhra Pradesh, India
-
----
-
-⭐ If you find this project useful, consider giving the repository a star!
